@@ -1,0 +1,2705 @@
+.main-div{
+    background-color: #53389E;
+    height: 100vh;
+}
+.log-in{
+background: transparent !important;
+border: none!important;
+}
+.log-in{
+    background: transparent !important;
+    border: none!important;
+}
+.aaa{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+.super{
+    font-size: 22px;
+    margin-top: 45px;
+}
+.big-text{
+    font-size: 75px;
+    font-weight: 600;
+    margin-top: -35px;
+}
+.simple{
+    font-size: 25px;  
+}
+.demo{
+    color: #53389E!important;
+    background-color: #fff!important;
+    font-weight: 500!important;
+    
+}
+.sign2{
+    background-color:#8876b8!important;
+    font-weight: 500!important;
+    color: #fff!important;
+    
+    
+}
+.wight-box{
+    background-color: #fff;
+    height: 100vh;
+}
+.image{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    /* flex-direction: row; */
+    margin-left: 10px !important;
+    margin-top: 120px !important;
+}
+.words{
+    margin-top: 110px !important;
+}
+.raju{
+    font-weight: 600;
+    
+    margin-top: 36px;
+    
+
+}
+
+.raju2{
+    
+    padding-top: 10px;
+}
+.logo1{
+    font-size: 28px!important;
+    display: flex !important;
+    justify-items: center !important;
+    align-items: center!important;
+    
+     margin-top: 10px;
+    
+} 
+.imgbox{
+    width: 100%;
+    height: 300px;
+    margin-top: 50px !important;
+    border-radius: 20px;
+}
+.lern-more{
+    width: 100px;
+}
+.main-con{
+    background-color: #53389E;
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.main-cone{
+    background-color: #fff;
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.bank-img{
+    width: 550px;
+    height: 300px;
+    margin-left: -11px;
+    border-top-right-radius :30px ;
+    border-bottom-right-radius: 30px;
+}
+.give{
+    font-weight: 600;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 65px;
+}
+.join-over{
+    padding-left: 50px;
+    font-size: 20px;
+    width: 2;
+
+}
+.btns-2{
+    margin-left: 50px;
+}
+.get-start{
+    background-color:#8876b8!important;
+    border: none !important;
+
+}
+.lern-more{
+    width: 100px;
+}
+.pricing-main{
+    /* background-color: aqua; */
+    height: 40vh;
+    margin-top: 60px !important;
+}
+.left-card{
+    margin-left: 10px;
+}
+
+.card1{
+    margin-left: 26px !important;
+    width: 292px !important;
+    margin-top: 25px !important;
+    -webkit-box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    
+
+}
+.price-word{
+    
+    
+    text-align: center !important;
+}
+.txt-line{
+    text-align: left !important;
+    margin-top: 20px !important;
+}
+.get-btn{
+    background-color: #53389E !important;
+}
+.coler-up{
+    color: #53389E;
+}
+.footer{
+    background-color: #1D2939;
+    margin-top: 130px;
+    width: 100%;
+    height: 400px;
+}
+.serch{
+    display: flex;
+    float: right;
+    margin-top: -139px;
+}
+.button-sus{
+    background-color:#7766a8  !important;
+    width: 100px !important;
+}
+.subscribe{
+   width: 100px!important;
+   display: flex;
+    float: right;
+    margin-top: -139px;
+
+}
+.line1{
+    height: 2px;
+    width: 100%;
+    background-color: #2d3d53;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.card1an{
+    margin-left: 26px !important;
+    width: 292px !important;
+    margin-top: 25px !important;
+    -webkit-box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 10px -4px rgba(0,0,0,0.75);
+    
+
+}
+
+@media all and(max-width:1280px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+
+  
+@media all and(max-width:1024px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+    .containerq{
+        padding-top: 60px!important;
+        padding-left: 200px!important;
+    }
+    @media all and(max-width:412px){
+        .demo{
+            order: 2;
+            width: 330px !important;
+            margin-top: 10px !important;
+    
+    
+        }
+        .big-text{
+            font-size:38px;
+            font-weight: 500;
+            margin-top: -24px;
+        }
+        .simple{
+            font-size: 18px;
+            margin-left: 17px;
+            margin-top: -15px; 
+        }
+        .super{
+            font-size: 18px;
+            margin-top: 24px;
+            margin-right: 170px
+            
+        }
+        .sign2{
+            order: 1;
+        } 
+        .btns{
+            display: flex;
+            flex-direction: column;
+        }
+        .raju{
+           
+            margin-left: 12px!important;
+            
+            
+        
+        }
+        .raju2{
+            padding-left: 24px!important;
+            pl:4;
+            
+        }
+        .main-con{
+            height: 405px !important;
+            border-bottom-left-radius: 0 !important;
+            border-top-right-radius: 30px !important;
+        }
+        .bank-img{
+        
+            height: 400px;
+            border-top-right-radius :0  !important;
+            border-bottom-left-radius: 30px;
+        
+        }
+        .imgg{
+            border-top-right-radius :0!important ;
+            width: 105.6%!important;
+            border-bottom-left-radius:30px ;
+        }
+        .get-start{
+            margin-top: 10px;
+            order: 1;
+         
+        }
+        .btns-2{
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px !important;
+            
+        }
+        .lern-more{
+            order: 2;
+            margin-top: 10px;
+        }
+        .imgbox{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+        .give{
+            padding-left: 17px !important;
+        }
+        .join-over{
+            padding-left: 10px !important;
+        }
+        .bank-img{
+            width: 391px;
+            height: 300px;
+            margin-left: -11px;
+            border-top-right-radius :30px ;
+            border-bottom-right-radius: 30px;
+            padding-right:50px; 
+        }
+        .main-div{
+            
+               
+                height: 77vh;
+           
+        }
+        .pricing-main{
+            margin-top: 430px !important;
+        }
+        .card1{
+            margin-left: 55px !important;
+        width: 310px !important;
+        margin-top: 25px !important;
+        
+        }
+    
+        }
+        .footer{
+            margin-top: 750px;
+            height: 91vh !important;
+        }
+        .slutter{
+            margin-left: 10px;
+        }
+        .serch{
+            padding-top: 100px !important;
+        }
+        .subscribe{
+            width: 100% !important;
+        }
+    
+        .button-sus{
+            background-color:#7766a8  !important;
+            width: 100% !important;
+        }
+        
+        .container17{
+            padding-bottom: 100px !important;
+             padding-top: 100px !important;
+        }
+        .ishan{
+            padding-top: 10%  !important;
+            background-color:#d4220e  !important;
+            width: 1000px !important;
+            height:  1000px !important;
+            padding-bottom: 10%  !important; 
+        }
+       .container122{
+        width: 200px
+        }
+    
+        .container3{
+         padding-bottom:1px !important;
+          padding-top:1px  !important;
+        }
+        .imgboxu{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+    
+        .arya{
+            padding-top:  1px  !important;
+            padding-bottom:  1px  !important;
+        }
+        .container567{padding-bottom: 10% !important;
+             padding-top: 50px !important;
+             padding-left:  1px !important;
+        }
+    
+
+        @media all and(max-width: 280px){
+            .demo{
+                order: 2;
+                width: 330px !important;
+                margin-top: 10px !important;
+        
+        
+            }
+            .big-text{
+                font-size:38px;
+                font-weight: 500;
+                margin-top: -24px;
+            }
+            .simple{
+                font-size: 18px;
+                margin-left: 17px;
+                margin-top: -15px; 
+            }
+            .super{
+                font-size: 18px;
+                margin-top: 24px;
+                margin-right: 170px
+                
+            }
+            .sign2{
+                order: 1;
+            } 
+            .btns{
+                display: flex;
+                flex-direction: column;
+            }
+            .raju{
+               
+                margin-left: 12px!important;
+                
+                
+            
+            }
+            .raju2{
+                padding-left: 24px!important;
+                pl:4;
+                
+            }
+            .main-con{
+                height: 405px !important;
+                border-bottom-left-radius: 0 !important;
+                border-top-right-radius: 30px !important;
+            }
+            .bank-img{
+            
+                height: 400px;
+                border-top-right-radius :0  !important;
+                border-bottom-left-radius: 30px;
+            
+            }
+            .imgg{
+                border-top-right-radius :0!important ;
+                width: 105.6%!important;
+                border-bottom-left-radius:30px ;
+            }
+            .get-start{
+                margin-top: 10px;
+                order: 1;
+             
+            }
+            .btns-2{
+                display: flex;
+                flex-direction: column;
+                margin-left: 10px !important;
+                
+            }
+            .lern-more{
+                order: 2;
+                margin-top: 10px;
+            }
+            .imgbox{
+                
+                margin-left: 10px !important;
+              
+            
+            }
+            .give{
+                padding-left: 17px !important;
+            }
+            .join-over{
+                padding-left: 10px !important;
+            }
+            .bank-img{
+                width: 391px;
+                height: 300px;
+                margin-left: -11px;
+                border-top-right-radius :30px ;
+                border-bottom-right-radius: 30px;
+                padding-right:50px; 
+            }
+            .main-div{
+                
+                   
+                    height: 77vh;
+               
+            }
+            .pricing-main{
+                margin-top: 430px !important;
+            }
+            .card1{
+                margin-left: 55px !important;
+            width: 310px !important;
+            margin-top: 25px !important;
+            
+            }
+        
+            }
+            .footer{
+                margin-top: 750px;
+                height: 91vh !important;
+            }
+            .slutter{
+                margin-left: 10px;
+            }
+            .serch{
+                padding-top: 100px !important;
+            }
+            .subscribe{
+                width: 100% !important;
+            }
+        
+            .button-sus{
+                background-color:#7766a8  !important;
+                width: 100% !important;
+            }
+            
+            .container17{
+                padding-bottom: 100px !important;
+                 padding-top: 100px !important;
+            }
+            .ishan{
+                padding-top: 10%  !important;
+                background-color:#d4220e  !important;
+                width: 1000px !important;
+                height:  1000px !important;
+                padding-bottom: 10%  !important; 
+            }
+           .container122{
+            width: 200px
+            }
+        
+            .container3{
+             padding-bottom:1px !important;
+              padding-top:1px  !important;
+            }
+            .imgboxu{
+                
+                margin-left: 10px !important;
+              
+            
+            }
+        
+            .arya{
+                padding-top:  1px  !important;
+                padding-bottom:  1px  !important;
+            }
+            .container567{padding-bottom: 10% !important;
+                 padding-top: 50px !important;
+                 padding-left:  1px !important;
+            }
+        
+@media all and(max-width:540px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+
+    @media all and(max-width:912px){
+        .demo{
+            order: 2;
+            width: 330px !important;
+            margin-top: 10px !important;
+    
+    
+        }
+        .big-text{
+            font-size:38px;
+            font-weight: 500;
+            margin-top: -24px;
+        }
+        .simple{
+            font-size: 18px;
+            margin-left: 17px;
+            margin-top: -15px; 
+        }
+        .super{
+            font-size: 18px;
+            margin-top: 24px;
+            margin-right: 170px
+            
+        }
+        .sign2{
+            order: 1;
+        } 
+        .btns{
+            display: flex;
+            flex-direction: column;
+        }
+        .raju{
+           
+            margin-left: 12px!important;
+            
+            
+        
+        }
+        .raju2{
+            padding-left: 24px!important;
+            pl:4;
+            
+        }
+        .main-con{
+            height: 405px !important;
+            border-bottom-left-radius: 0 !important;
+            border-top-right-radius: 30px !important;
+        }
+        .bank-img{
+        
+            height: 400px;
+            border-top-right-radius :0  !important;
+            border-bottom-left-radius: 30px;
+        
+        }
+        .imgg{
+            border-top-right-radius :0!important ;
+            width: 105.6%!important;
+            border-bottom-left-radius:30px ;
+        }
+        .get-start{
+            margin-top: 10px;
+            order: 1;
+         
+        }
+        .btns-2{
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px !important;
+            
+        }
+        .lern-more{
+            order: 2;
+            margin-top: 10px;
+        }
+        .imgbox{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+        .give{
+            padding-left: 17px !important;
+        }
+        .join-over{
+            padding-left: 10px !important;
+        }
+        .bank-img{
+            width: 391px;
+            height: 300px;
+            margin-left: -11px;
+            border-top-right-radius :30px ;
+            border-bottom-right-radius: 30px;
+            padding-right:50px; 
+        }
+        .main-div{
+            
+               
+                height: 77vh;
+           
+        }
+        .pricing-main{
+            margin-top: 430px !important;
+        }
+        .card1{
+            margin-left: 55px !important;
+        width: 310px !important;
+        margin-top: 25px !important;
+        
+        }
+    
+        }
+        .footer{
+            margin-top: 750px;
+            height: 91vh !important;
+        }
+        .slutter{
+            margin-left: 10px;
+        }
+        .serch{
+            padding-top: 100px !important;
+        }
+        .subscribe{
+            width: 100% !important;
+        }
+    
+        .button-sus{
+            background-color:#7766a8  !important;
+            width: 100% !important;
+        }
+        
+        .container17{
+            padding-bottom: 100px !important;
+             padding-top: 100px !important;
+        }
+        .ishan{
+            padding-top: 10%  !important;
+            background-color:#d4220e  !important;
+            width: 1000px !important;
+            height:  1000px !important;
+            padding-bottom: 10%  !important; 
+        }
+       .container122{
+        width: 200px
+        }
+    
+        .container3{
+         padding-bottom:1px !important;
+          padding-top:1px  !important;
+        }
+        .imgboxu{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+    
+        .arya{
+            padding-top:  1px  !important;
+            padding-bottom:  1px  !important;
+        }
+        .container567{padding-bottom: 10% !important;
+             padding-top: 50px !important;
+             padding-left:  1px !important;
+        }
+ 
+@media all and(max-width:768px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+ 
+@media all and(max-width:820px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+ 
+@media all and(max-width:412px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+
+@media all and(max-width:412px){
+        .demo{
+            order: 2;
+            width: 330px !important;
+            margin-top: 10px !important;
+    
+    
+        }
+        .big-text{
+            font-size:38px;
+            font-weight: 500;
+            margin-top: -24px;
+        }
+        .simple{
+            font-size: 18px;
+            margin-left: 17px;
+            margin-top: -15px; 
+        }
+        .super{
+            font-size: 18px;
+            margin-top: 24px;
+            margin-right: 170px
+            
+        }
+        .sign2{
+            order: 1;
+        } 
+        .btns{
+            display: flex;
+            flex-direction: column;
+        }
+        .raju{
+           
+            margin-left: 12px!important;
+            
+            
+        
+        }
+        .raju2{
+            padding-left: 24px!important;
+            pl:4;
+            
+        }
+        .main-con{
+            height: 405px !important;
+            border-bottom-left-radius: 0 !important;
+            border-top-right-radius: 30px !important;
+        }
+        .bank-img{
+        
+            height: 400px;
+            border-top-right-radius :0  !important;
+            border-bottom-left-radius: 30px;
+        
+        }
+        .imgg{
+            border-top-right-radius :0!important ;
+            width: 105.6%!important;
+            border-bottom-left-radius:30px ;
+        }
+        .get-start{
+            margin-top: 10px;
+            order: 1;
+         
+        }
+        .btns-2{
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px !important;
+            
+        }
+        .lern-more{
+            order: 2;
+            margin-top: 10px;
+        }
+        .imgbox{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+        .give{
+            padding-left: 17px !important;
+        }
+        .join-over{
+            padding-left: 10px !important;
+        }
+        .bank-img{
+            width: 391px;
+            height: 300px;
+            margin-left: -11px;
+            border-top-right-radius :30px ;
+            border-bottom-right-radius: 30px;
+            padding-right:50px; 
+        }
+        .main-div{
+            
+               
+                height: 77vh;
+           
+        }
+        .pricing-main{
+            margin-top: 430px !important;
+        }
+        .card1{
+            margin-left: 55px !important;
+        width: 310px !important;
+        margin-top: 25px !important;
+        
+        }
+    
+        }
+        .footer{
+            margin-top: 750px;
+            height: 91vh !important;
+        }
+        .slutter{
+            margin-left: 10px;
+        }
+        .serch{
+            padding-top: 100px !important;
+        }
+        .subscribe{
+            width: 100% !important;
+        }
+    
+        .button-sus{
+            background-color:#7766a8  !important;
+            width: 100% !important;
+        }
+        
+        .container17{
+            padding-bottom: 100px !important;
+             padding-top: 100px !important;
+        }
+        .ishan{
+            padding-top: 10%  !important;
+            background-color:#d4220e  !important;
+            width: 1000px !important;
+            height:  1000px !important;
+            padding-bottom: 10%  !important; 
+        }
+       .container122{
+        width: 200px
+        }
+    
+        .container3{
+         padding-bottom:1px !important;
+          padding-top:1px  !important;
+        }
+        .imgboxu{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+    
+        .arya{
+            padding-top:  1px  !important;
+            padding-bottom:  1px  !important;
+        }
+        .container567{padding-bottom: 10% !important;
+             padding-top: 50px !important;
+             padding-left:  1px !important;
+        }
+ 
+@media all and(max-width:360px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+
+@media all and(max-width:393px){
+        .demo{
+            order: 2;
+            width: 330px !important;
+            margin-top: 10px !important;
+    
+    
+        }
+        .big-text{
+            font-size:38px;
+            font-weight: 500;
+            margin-top: -24px;
+        }
+        .simple{
+            font-size: 18px;
+            margin-left: 17px;
+            margin-top: -15px; 
+        }
+        .super{
+            font-size: 18px;
+            margin-top: 24px;
+            margin-right: 170px
+            
+        }
+        .sign2{
+            order: 1;
+        } 
+        .btns{
+            display: flex;
+            flex-direction: column;
+        }
+        .raju{
+           
+            margin-left: 12px!important;
+            
+            
+        
+        }
+        .raju2{
+            padding-left: 24px!important;
+            pl:4;
+            
+        }
+        .main-con{
+            height: 405px !important;
+            border-bottom-left-radius: 0 !important;
+            border-top-right-radius: 30px !important;
+        }
+        .bank-img{
+        
+            height: 400px;
+            border-top-right-radius :0  !important;
+            border-bottom-left-radius: 30px;
+        
+        }
+        .imgg{
+            border-top-right-radius :0!important ;
+            width: 105.6%!important;
+            border-bottom-left-radius:30px ;
+        }
+        .get-start{
+            margin-top: 10px;
+            order: 1;
+         
+        }
+        .btns-2{
+            display: flex;
+            flex-direction: column;
+            margin-left: 10px !important;
+            
+        }
+        .lern-more{
+            order: 2;
+            margin-top: 10px;
+        }
+        .imgbox{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+        .give{
+            padding-left: 17px !important;
+        }
+        .join-over{
+            padding-left: 10px !important;
+        }
+        .bank-img{
+            width: 391px;
+            height: 300px;
+            margin-left: -11px;
+            border-top-right-radius :30px ;
+            border-bottom-right-radius: 30px;
+            padding-right:50px; 
+        }
+        .main-div{
+            
+               
+                height: 77vh;
+           
+        }
+        .pricing-main{
+            margin-top: 430px !important;
+        }
+        .card1{
+            margin-left: 55px !important;
+        width: 310px !important;
+        margin-top: 25px !important;
+        
+        }
+    
+        }
+        .footer{
+            margin-top: 750px;
+            height: 91vh !important;
+        }
+        .slutter{
+            margin-left: 10px;
+        }
+        .serch{
+            padding-top: 100px !important;
+        }
+        .subscribe{
+            width: 100% !important;
+        }
+    
+        .button-sus{
+            background-color:#7766a8  !important;
+            width: 100% !important;
+        }
+        
+        .container17{
+            padding-bottom: 100px !important;
+             padding-top: 100px !important;
+        }
+        .ishan{
+            padding-top: 10%  !important;
+            background-color:#d4220e  !important;
+            width: 1000px !important;
+            height:  1000px !important;
+            padding-bottom: 10%  !important; 
+        }
+       .container122{
+        width: 200px
+        }
+    
+        .container3{
+         padding-bottom:1px !important;
+          padding-top:1px  !important;
+        }
+        .imgboxu{
+            
+            margin-left: 10px !important;
+          
+        
+        }
+    
+        .arya{
+            padding-top:  1px  !important;
+            padding-bottom:  1px  !important;
+        }
+        .container567{padding-bottom: 10% !important;
+             padding-top: 50px !important;
+             padding-left:  1px !important;
+        }
+
+ @media all and(max-width:390px){
+            .demo{
+                order: 2;
+                width: 330px !important;
+                margin-top: 10px !important;
+        
+        
+            }
+            .big-text{
+                font-size:38px;
+                font-weight: 500;
+                margin-top: -24px;
+            }
+            .simple{
+                font-size: 18px;
+                margin-left: 17px;
+                margin-top: -15px; 
+            }
+            .super{
+                font-size: 18px;
+                margin-top: 24px;
+                margin-right: 170px
+                
+            }
+            .sign2{
+                order: 1;
+            } 
+            .btns{
+                display: flex;
+                flex-direction: column;
+            }
+            .raju{
+               
+                margin-left: 12px!important;
+                
+                
+            
+            }
+            .raju2{
+                padding-left: 24px!important;
+                pl:4;
+                
+            }
+            .main-con{
+                height: 405px !important;
+                border-bottom-left-radius: 0 !important;
+                border-top-right-radius: 30px !important;
+            }
+            .bank-img{
+            
+                height: 400px;
+                border-top-right-radius :0  !important;
+                border-bottom-left-radius: 30px;
+            
+            }
+            .imgg{
+                border-top-right-radius :0!important ;
+                width: 105.6%!important;
+                border-bottom-left-radius:30px ;
+            }
+            .get-start{
+                margin-top: 10px;
+                order: 1;
+             
+            }
+            .btns-2{
+                display: flex;
+                flex-direction: column;
+                margin-left: 10px !important;
+                
+            }
+            .lern-more{
+                order: 2;
+                margin-top: 10px;
+            }
+            .imgbox{
+                
+                margin-left: 10px !important;
+              
+            
+            }
+            .give{
+                padding-left: 17px !important;
+            }
+            .join-over{
+                padding-left: 10px !important;
+            }
+            .bank-img{
+                width: 391px;
+                height: 300px;
+                margin-left: -11px;
+                border-top-right-radius :30px ;
+                border-bottom-right-radius: 30px;
+                padding-right:50px; 
+            }
+            .main-div{
+                
+                   
+                    height: 77vh;
+               
+            }
+            .pricing-main{
+                margin-top: 430px !important;
+            }
+            .card1{
+                margin-left: 55px !important;
+            width: 310px !important;
+            margin-top: 25px !important;
+            
+            }
+        
+            }
+            .footer{
+                margin-top: 750px;
+                height: 91vh !important;
+            }
+            .slutter{
+                margin-left: 10px;
+            }
+            .serch{
+                padding-top: 100px !important;
+            }
+            .subscribe{
+                width: 100% !important;
+            }
+        
+            .button-sus{
+                background-color:#7766a8  !important;
+                width: 100% !important;
+            }
+            
+            .container17{
+                padding-bottom: 100px !important;
+                 padding-top: 100px !important;
+            }
+            .ishan{
+                padding-top: 10%  !important;
+                background-color:#d4220e  !important;
+                width: 1000px !important;
+                height:  1000px !important;
+                padding-bottom: 10%  !important; 
+            }
+           .container122{
+            width: 200px
+            }
+        
+            .container3{
+             padding-bottom:1px !important;
+              padding-top:1px  !important;
+            }
+            .imgboxu{
+                
+                margin-left: 10px !important;
+              
+            
+            }
+        
+            .arya{
+                padding-top:  1px  !important;
+                padding-bottom:  1px  !important;
+            }
+            .container567{padding-bottom: 10% !important;
+                 padding-top: 50px !important;
+                 padding-left:  1px !important;
+            }
+ 
+@media all and(max-width:414px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+ 
+@media all and(max-width:375px){
+    .demo{
+        order: 2;
+        width: 330px !important;
+        margin-top: 10px !important;
+
+
+    }
+    .big-text{
+        font-size:38px;
+        font-weight: 500;
+        margin-top: -24px;
+    }
+    .simple{
+        font-size: 18px;
+        margin-left: 17px;
+        margin-top: -15px; 
+    }
+    .super{
+        font-size: 18px;
+        margin-top: 24px;
+        margin-right: 170px
+        
+    }
+    .sign2{
+        order: 1;
+    } 
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .raju{
+       
+        margin-left: 12px!important;
+        
+        
+    
+    }
+    .raju2{
+        padding-left: 24px!important;
+        pl:4;
+        
+    }
+    .main-con{
+        height: 405px !important;
+        border-bottom-left-radius: 0 !important;
+        border-top-right-radius: 30px !important;
+    }
+    .bank-img{
+    
+        height: 400px;
+        border-top-right-radius :0  !important;
+        border-bottom-left-radius: 30px;
+    
+    }
+    .imgg{
+        border-top-right-radius :0!important ;
+        width: 105.6%!important;
+        border-bottom-left-radius:30px ;
+    }
+    .get-start{
+        margin-top: 10px;
+        order: 1;
+     
+    }
+    .btns-2{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px !important;
+        
+    }
+    .lern-more{
+        order: 2;
+        margin-top: 10px;
+    }
+    .imgbox{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+    .give{
+        padding-left: 17px !important;
+    }
+    .join-over{
+        padding-left: 10px !important;
+    }
+    .bank-img{
+        width: 391px;
+        height: 300px;
+        margin-left: -11px;
+        border-top-right-radius :30px ;
+        border-bottom-right-radius: 30px;
+        padding-right:50px; 
+    }
+    .main-div{
+        
+           
+            height: 77vh;
+       
+    }
+    .pricing-main{
+        margin-top: 430px !important;
+    }
+    .card1{
+        margin-left: 55px !important;
+    width: 310px !important;
+    margin-top: 25px !important;
+    
+    }
+
+    }
+    .footer{
+        margin-top: 750px;
+        height: 91vh !important;
+    }
+    .slutter{
+        margin-left: 10px;
+    }
+    .serch{
+        padding-top: 100px !important;
+    }
+    .subscribe{
+        width: 100% !important;
+    }
+
+    .button-sus{
+        background-color:#7766a8  !important;
+        width: 100% !important;
+    }
+    
+    .container17{
+        padding-bottom: 100px !important;
+         padding-top: 100px !important;
+    }
+    .ishan{
+        padding-top: 10%  !important;
+        background-color:#d4220e  !important;
+        width: 1000px !important;
+        height:  1000px !important;
+        padding-bottom: 10%  !important; 
+    }
+   .container122{
+    width: 200px
+    }
+
+    .container3{
+     padding-bottom:1px !important;
+      padding-top:1px  !important;
+    }
+    .imgboxu{
+        
+        margin-left: 10px !important;
+      
+    
+    }
+
+    .arya{
+        padding-top:  1px  !important;
+        padding-bottom:  1px  !important;
+    }
+    .container567{padding-bottom: 10% !important;
+         padding-top: 50px !important;
+         padding-left:  1px !important;
+    }
+              
